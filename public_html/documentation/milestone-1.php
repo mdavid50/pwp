@@ -15,6 +15,8 @@
 
 		<p><strong>Goal:</strong> To aquire full time employment</p>
 
-		<h2></h2>
+		<h2>Persona</h2>.
+
+		<p>Mrs. Maher is the hiring manager for a development company. </p>
 	</body>
 </html>
