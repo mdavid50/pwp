@@ -41,7 +41,7 @@
 		a GitHub pulse to narrow her field and start interviewing.</p>
 
 		<p><strong>User Story:</strong> As a user I need to quickly see what experience a candidate has and
-		have a quick reference to their recent coding activity on GitHub.</p>
+		have a quick reference to their recent coding activity on GitHub as a qualified Back End Web Deverloper.</p>
 
 
 		<p></p>
