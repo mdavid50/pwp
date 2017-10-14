@@ -13,15 +13,17 @@
 
 		<P><strong>Audience:</strong> Potential employers</P>
 
-		<p><strong>Goal:</strong> To aquire full time employment</p>
+		<p><strong>Goal:</strong> To acquire full time employment</p>
 
 		<h2>Persona</h2>.
+		
+		<img src="business-woman.jpg alt=photo of mrs. maher">
 
 		<p><strong>Name:</strong> Mrs. Maher</p>
 
 		<p><strong>Age:</strong>39</p>
 
-		<p><strong> Profession:</strong>Hiring manager at ___________, a developement company looking to expand
+		<p><strong> Profession:</strong>Hiring manager at ___________, a development company looking to expand
 		and hire developers with a solid foundation that will grow with the company.</p>
 
 		<p><strong>Technologies:</strong> Uses HP 15-ay013nr and uses a Motorola Droid Turbo</p>
