@@ -17,7 +17,7 @@
 
 		<h2>Persona</h2>.
 		
-		<img src="../images/business-woman.jpg" alt="photo of mrs. maher">
+		<img src="../images/business-woman.jpg" alt="Photo of Mrs. Maher">
 
 		<p><strong>Name:</strong> Mrs. Maher</p>
 
