@@ -8,7 +8,7 @@
     </head>
     <body>
     <h1>Whats to come</h1>
-    <p>I don't want to start my relationship with Mrs. Maher off on a bad not. Keeping in mind that she has a lot
+    <p>I don't want to start my relationship with Mrs. Maher off on a bad note. Keeping in mind that she has a lot
     to do today, I want to present her with a strong but simple page. I'm going to do my best to give her better
     than the basics, but get to the point right away. Here is what I think will be important to Mrs. Maher.</p>
     <ul>
