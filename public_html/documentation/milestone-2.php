@@ -21,6 +21,7 @@
         <li>skills section describing professional skills outside languages</li>
         <li>resume</li>
         <li>footer with contacts and links</li>
-    </ul>
+    </ul>.
+    <a href="../images/pwp-wireframe.pdf">Wireframe</a>
     </body>
     </html>
