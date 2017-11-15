@@ -17,12 +17,18 @@
 
 </head>
 
-<body class="sfooter home">
+<body class="sfooter home-layout">
 <div class="sfooter content">
     <!-- insert the header and nav -->
     <nav class="navbar navbar-fixed-top navbar-default">
         ::before
-        <div class="container"></div>
+        <div class="container">
+            <!-- grand and toggle get grouped for better mobile presentation -->
+            <div class="navbar-header">
+                ::before
+
+            </div>
+        </div>
         ::before
     </nav>
 </div>
