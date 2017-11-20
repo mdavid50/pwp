@@ -19,18 +19,19 @@
 
 <body class="sfooter home-layout">
 <div class="sfooter content">
-    <!-- insert the header and nav -->
-    <nav class="navbar navbar-fixed-top navbar-default">
-        ::before
-        <div class="container">
-            <!-- grand and toggle get grouped for better mobile presentation -->
-            <div class="navbar-header">
-                ::before
 
-            </div>
-        </div>
-        ::before
-    </nav>
+	<!-- insert header and navbar -->
+	<?php require_once("php/partials/header.php");?>
+
+	<!-- welcome 'hero' section -->
+	<section class="welcome p-t-nav">
+		<div class="container">
+			<div class="jumbotron text-right">
+				<h1>Welcome!</h1>
+				<p class="lead">Thanks for taking the time to check out what I'm capeable of!</p>
+			</div>
+		</div>
+	</section><!--/.welcome-->
 </div>
 </body>
 </html>
