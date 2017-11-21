@@ -17,7 +17,7 @@
 
 </head>
 
-<body class="sfooter home-layout">
+<body class="sfooter home-layout parallax">
 <div class="sfooter content">
 
 
@@ -58,11 +58,23 @@
 	<!-- welcome 'hero' section -->
 	<section class="welcome p-t-nav">
 		<div class="container">
-			<div class="jumbotron text-center">
-				<h1>Welcome!</h1>
-				<p class="lead">Thanks for taking the time to check out what I'm capeable of!</p>
+			<div class="jumbotron bg-transparent text-center">
+				<h1>Glad you could make it!</h1>
+				<p class="lead">Thanks for taking the time to check out what I'm capable of!</p>
 			</div>
 		</div>
 	</section><!--/.welcome-->
+
+	<!-- about Matt David -->
+	<section class="p-5 solid mt-0" id="about">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-8 col-lg-6">
+					<h2>A Little About Me</h2>
+					<p>I'm on an adventure!</p>
+				</div>
+			</div>
+		</div>
+	</section>
 </div>
 </body>

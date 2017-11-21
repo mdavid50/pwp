@@ -1,0 +1,13 @@
+.parallax {
+	/* top image for background*/
+	background-image: url("../images/gabriel.jpg");
+
+	/*set a spacific height*/
+	height: 500px;
+
+	/*create the parallax scrolling effect */
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
