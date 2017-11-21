@@ -1,13 +1,22 @@
 .parallax {
-	/* top image for background*/
-	background-image: url("../images/gabriel.jpg");
 
 	/*set a spacific height*/
-	height: 500px;
+	height: 800px;
 
 	/*create the parallax scrolling effect */
 	background-attachment: fixed;
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
+}
+
+@media(min-width: 769px) {
+	.parallax-content{
+		background-image: url("../images/my-life.jpg");
+	}
+
+	.parallax-content2{
+		background-image: url("../images/gabriel.jpg");
+	}
+
 }

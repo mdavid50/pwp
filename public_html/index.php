@@ -55,6 +55,11 @@
 		</div>
 	</nav>
 
+	<!--parallax first section -->
+	<div class="parallax-content">
+		<div class="parallax"></div>
+	</div>
+
 	<!-- welcome 'hero' section -->
 	<section class="welcome p-t-nav">
 		<div class="container">
@@ -76,5 +81,12 @@
 			</div>
 		</div>
 	</section>
+
+	<!-- parallax second section -->
+	<div class="parallax-content2">
+		<div class="parallax"></div>
+	</div>
+
+	<section class=""
 </div>
 </body>
