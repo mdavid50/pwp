@@ -58,7 +58,7 @@
 	<!-- welcome 'hero' section -->
 	<section class="welcome p-t-nav">
 		<div class="container">
-			<div class="jumbotron text-right">
+			<div class="jumbotron text-center">
 				<h1>Welcome!</h1>
 				<p class="lead">Thanks for taking the time to check out what I'm capeable of!</p>
 			</div>
