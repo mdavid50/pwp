@@ -31,12 +31,6 @@
 		<div class="collapse navbar-collapse" id="navbarTogglerDemo01">
 			<ul class="navbar-nav ml-auto">
 				<li class="nav-item">
-					<a href="https://github.com/mdavid50" target="_blank" class="nav-link">Github</a>
-				</li>
-				<li class="nav-item">
-					<a href="https://www.linkedin.com/in/matthew-david-8b7079152/" target="_blank" class="nav-link">LinkedIn</a>
-				</li>
-				<li class="nav-item">
 					<a class="nav-link" href="#">About</a>
 				</li>
 				<li class="nav-item">
@@ -44,6 +38,12 @@
 				</li>
 				<li class="nav-item">
 					<a class="nav-link" href="#">Skills</a>
+				</li>
+				<li class="nav-item">
+					<a href="https://github.com/mdavid50" target="_blank" class="nav-link">Github</a>
+				</li>
+				<li class="nav-item">
+					<a href="https://www.linkedin.com/in/matthew-david-8b7079152/" target="_blank" class="nav-link">LinkedIn</a>
 				</li>
 				<li class="nav-item">
 					<a class="nav-link" href="#">Resume</a>
