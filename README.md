@@ -18,3 +18,6 @@ The "Skills", "Resume" and "Contact" sections are the ones I am most curious abo
 The wireframe you created is really nice - but it just needs to reflect the plan for your entire UI. At the very least, before you begin coding take time to sketch something out for yourself so you have a plan to go on. Your Content Strategy is great, so I'm confident that you have a pretty good idea of what you'd like to build.
 
 Your Milestone 2a passes at [Tier II](https://bootcamp-coders.cnm.edu/projects/personal/rubric/). If you'd like to update the wireframes by Wed 11/8/17 I'd be happy to bump your score to Tier III. Otherwise you're clear to begin development on your PWP.
+
+## Milestone 2&beta; Feedback
+While your pwp is lacking content, your layout is looking great, and you're on the right track. Your grade for 2&beta; is [Tier III](https://bootcamp-coders.cnm.edu/projects/personal/rubric/). Great job!
