@@ -1,22 +1,56 @@
+.jumbotron {
+	color: khaki;
+}
+
+#top-of-page {
+	position: fixed;
+	width: 100%;
+}
+
 .parallax {
 
-	/*set a spacific height*/
-	height: 800px;
+	/*set a spacific height
+	height: 800px;*/
 
-	/*create the parallax scrolling effect */
+	/*create the parallax scrolling effect
 	background-attachment: fixed;
 	background-position: center;
 	background-repeat: no-repeat;
-	background-size: cover;
+	background-size: cover;*/
+}
+
+@media only screen and (max-device-width: 768px) {
+	.parallax {
+		background-attachment: scroll;
+	}
 }
 
 @media(min-width: 769px) {
 	.parallax-content{
 		background-image: url("../images/my-life.jpg");
+		width: 100%;
+		position: relative;
+		/* background: url(/_images/header_trees.png) no-repeat; */
+		background-size: 100% 100%;
+		height: 60vh;
 	}
 
 	.parallax-content2{
 		background-image: url("../images/gabriel.jpg");
+		width: 100%;
+		position: relative;
+		/* background: url(/_images/header_trees.png) no-repeat; */
+		background-size: 100% 100%;
+		height: 60vh;
+	}
+
+	.parallax-content3{
+		background-image: url("../images/ryan.jpg");
+		width: 100%;
+		position: relative;
+		/* background: url(/_images/header_trees.png) no-repeat; */
+		background-size: 100% 100%;
+		height: 60vh;
 	}
 
 }
