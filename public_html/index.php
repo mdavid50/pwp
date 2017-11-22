@@ -69,7 +69,7 @@
 			<div class="row">
 				<div class="col-md-8 col-lg-6">
 					<h2>A Little About Me</h2>
-					<p>I'm on an adventure!</p>
+					<p>In life I regularly find myself in pursuit of a great challenge. </p>
 				</div>
 			</div>
 		</div>
@@ -112,6 +112,27 @@
 				<div class="col-md-8 col-lr-6">
 					<h2>Skills</h2>
 					<p>Slacking, Sleeping, eating, bbbrrrraaaaappppppp</p>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<!-- parallax fourth section -->
+	<div class="parallax-content4">
+		<div class="parallax">
+			<div class="jumbotron bg-transparent text-center">
+				<h1>What can I do for you?</h1>
+				<p>I'd love to see what we could accomplish together.</p>
+			</div>
+		</div>
+	</div>
+
+	<section class="p-5 solid mt-0" id="skills">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-8 col-lr-6">
+					<h2>contact</h2>
+					<p>email phone name blah blah blah</p>
 				</div>
 			</div>
 		</div>
