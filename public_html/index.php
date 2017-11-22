@@ -43,7 +43,7 @@
 					<a href="https://www.linkedin.com/in/matthew-david-8b7079152/" target="_blank" class="nav-link">LinkedIn</a>
 				</li>
 				<li class="nav-item">
-					<a class="nav-link" href="#">Resume</a>
+					<a class="nav-link" href="./documentation/matthew-david-resume.pdf">Resume</a>
 				</li>
 				<li class="nav-item">
 					<a class="nav-link" href="#">Contact</a>
@@ -69,8 +69,10 @@
 			<div class="row">
 				<div class="col-md-8 col-lg-6">
 					<h2>A Little About Me</h2>
-					<p>In life I regularly find myself in pursuit of a great challenge. </p>
+					<p>In life I regularly find myself in pursuit of a greater challenge. I was raised with the belief that to say you can't would be admitting that you were incapable of learning. This instilled a persistent drive to accomplish better things. You should not be afraid to fail, but be afraid of not learning. These few little pieces of advice have led me to persue some incredible interests and hobbies. From blasting through the desert on my dirtbike to learning how to code and camping, snowboarding, and travel abroad inbetween, I feel like I have gained some invaluable experience</p>
+					<p>I began my career life as an electrician. I built server rooms, access control systems, hospitals, schools, offices, and homes. I was taught a lot about what hard work was. I loved to troubleshoot, design, and create. This life required some major</p>
 				</div>
+				<div class="col-md-4 col-lg-6"><img src="./images/getting-ready.jpg"></div>
 			</div>
 		</div>
 	</section>
@@ -89,8 +91,20 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-8 col-lr-6">
-					<h2>I can talk the talk</h2>
-					<p>I have learned all these things while developing</p>
+					<h2>I operate on Linux!</h2>
+					<p>I code with HTML, PHP, MySQL, Java Script JQUery, Bootstrap, Angular, AJAX, Json, CSS</p>
+					<ul>
+						<li>HTML</li>
+						<li>PHP</li>
+						<li>CSS</li>
+						<li>MySQL</li>
+						<li>Java Script</li>
+						<li>jQuery</li>
+						<li>Bootstrap</li>
+						<li>Angular</li>
+						<li>AJAX</li>
+						<li>Json</li>
+					</ul>
 				</div>
 			</div>
 		</div>
@@ -132,7 +146,21 @@
 			<div class="row">
 				<div class="col-md-8 col-lr-6">
 					<h2>contact</h2>
-					<p>email phone name blah blah blah</p>
+					<form>
+
+						<label>Name</label>
+						<input name="name" placeholder="Type Here">
+
+						<label>Email</label>
+						<input name="email" type="email" placeholder="Type Here">
+
+						<label>Message</label>
+						<textarea name="message" placeholder="Type Here"></textarea>
+
+						<input id="submit" name="submit" type="submit" value="Submit">
+
+					</form>
+
 				</div>
 			</div>
 		</div>

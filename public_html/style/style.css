@@ -11,12 +11,30 @@
 
 }
 
+
+label {
+	display:block;
+	margin-top:20px;
+	letter-spacing:2px;
+}
+
+input {
+	display: block;
+}
+
+textarea {
+	display: block;
+}
+
+
+
 @media only screen and (max-device-width: 768px) {
 	.parallax {
 		background-attachment: scroll;
 	}
 }
 
+/* xs to lg*/
 @media(min-width: 769px) {
 	.parallax-content{
 		background-image: url("../images/my-life.jpg");
@@ -61,6 +79,24 @@
 		background-repeat: no-repeat;
 		background-attachment: fixed;
 		background-position: center;
+	}
+	/* xs to 0 */
+	@media(max-width: 768px){
+		.parallax-content .parallax:before{
+			background-image: url("../images/my-life.jpg");
+		}
+
+		.parallax-content2 .parallax:before{
+			background-image: url("../images/ryan.jpg");
+		}
+
+		.parallax-content3 .parallax:before{
+			background-image: url("../images/gabriel.jpg");
+		}
+
+		.parallax-content4 .parallax:before{
+			background-image: url("../images/ghost-presenter.jpg");
+		}
 	}
 
 }
