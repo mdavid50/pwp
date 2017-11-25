@@ -67,12 +67,12 @@
 	<section class="p-5 solid mt-0" id="about">
 		<div class="container">
 			<div class="row">
-				<div class="col-md-8 col-lg-6">
+				<div class="col-sm-12 col-md-8 col-lg-6">
 					<h2>A Little About Me</h2>
 					<p>In life I regularly find myself in pursuit of a greater challenge. I was raised with the belief that to say you can't would be admitting that you were incapable of learning. This instilled a persistent drive to accomplish better things. You should not be afraid to fail, but be afraid of not learning. These few little pieces of advice have led me to persue some incredible interests and hobbies. From blasting through the desert on my dirtbike to learning how to code and camping, snowboarding, and travel abroad inbetween, I feel like I have gained some invaluable experience</p>
 					<p>I began my career life as an electrician. I built server rooms, access control systems, hospitals, schools, offices, and homes. I was taught a lot about what hard work was. I loved to troubleshoot, design, and create. This life required some major</p>
 				</div>
-				<div class="col-md-4 col-lg-6"><img class="mh-60" src="./images/getting-ready.jpg" alt="picture of Matt David"></div>
+				<div class="col-sm-12 col-md-4 col-lg-6"><img class="image-responsive" src="./images/getting-ready.jpg" alt="picture of Matt David"></div>
 			</div>
 		</div>
 	</section>
@@ -123,7 +123,7 @@
 	<section class="p-5 solid mt-0" id="skills">
 		<div class="container">
 			<div class="row">
-				<div class="col-md-8 col-lr-6">
+				<div class="col-sm-12 col-md-8 col-lr-6">
 					<h2>Skills</h2>
 					<p>Slacking, Sleeping, eating, bbbrrrraaaaappppppp</p>
 				</div>
@@ -144,8 +144,8 @@
 	<section class="p-5 solid mt-0" id="contact">
 		<div class="container">
 			<div class="row">
-				<div class="col-md-8 col-lr-6">
-					<h2>contact</h2>
+				<div class="col-sm-12 col-md-8 col-lr-6">
+					<h2>Contact</h2>
 					<form>
 
 						<label>Name</label>
