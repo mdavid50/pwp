@@ -28,13 +28,13 @@
 		<div class="collapse navbar-collapse" id="navbarTogglerDemo01">
 			<ul class="navbar-nav ml-auto">
 				<li class="nav-item">
-					<a class="nav-link" href="#">About</a>
+					<a class="nav-link" href="#about">About</a>
 				</li>
 				<li class="nav-item">
-					<a class="nav-link" href="#">Languages</a>
+					<a class="nav-link" href="#languages">Languages</a>
 				</li>
 				<li class="nav-item">
-					<a class="nav-link" href="#">Skills</a>
+					<a class="nav-link" href="#skills">Skills</a>
 				</li>
 				<li class="nav-item">
 					<a href="https://github.com/mdavid50" target="_blank" class="nav-link">Github</a>
@@ -46,7 +46,7 @@
 					<a class="nav-link" href="./documentation/matthew-david-resume.pdf">Resume</a>
 				</li>
 				<li class="nav-item">
-					<a class="nav-link" href="#">Contact</a>
+					<a class="nav-link" href="#contact">Contact</a>
 				</li>
 			</ul>
 		</div>
@@ -72,7 +72,7 @@
 					<p>In life I regularly find myself in pursuit of a greater challenge. I was raised with the belief that to say you can't would be admitting that you were incapable of learning. This instilled a persistent drive to accomplish better things. You should not be afraid to fail, but be afraid of not learning. These few little pieces of advice have led me to persue some incredible interests and hobbies. From blasting through the desert on my dirtbike to learning how to code and camping, snowboarding, and travel abroad inbetween, I feel like I have gained some invaluable experience</p>
 					<p>I began my career life as an electrician. I built server rooms, access control systems, hospitals, schools, offices, and homes. I was taught a lot about what hard work was. I loved to troubleshoot, design, and create. This life required some major</p>
 				</div>
-				<div class="col-md-4 col-lg-6"><img src="./images/getting-ready.jpg"></div>
+				<div class="col-md-4 col-lg-6"><img class="mh-60" src="./images/getting-ready.jpg" alt="picture of Matt David"></div>
 			</div>
 		</div>
 	</section>
@@ -91,8 +91,8 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-md-8 col-lr-6">
-					<h2>I operate on Linux!</h2>
-					<p>I code with HTML, PHP, MySQL, Java Script JQUery, Bootstrap, Angular, AJAX, Json, CSS</p>
+					<h2>I operate primarily with Linux and Windows.</h2>
+					<p>I code with the LAMP stack</p>
 					<ul>
 						<li>HTML</li>
 						<li>PHP</li>
@@ -141,7 +141,7 @@
 		</div>
 	</div>
 
-	<section class="p-5 solid mt-0" id="skills">
+	<section class="p-5 solid mt-0" id="contact">
 		<div class="container">
 			<div class="row">
 				<div class="col-md-8 col-lr-6">

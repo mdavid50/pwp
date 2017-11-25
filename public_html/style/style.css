@@ -7,8 +7,9 @@
 	width: 100%;
 }
 
-.parallax {
-
+section {
+	background-color: dimgrey;
+	color: white;
 }
 
 
