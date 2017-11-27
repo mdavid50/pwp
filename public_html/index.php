@@ -193,7 +193,7 @@
 						<textarea name="message" placeholder="Type Here"></textarea>
 
 						<!-- reCAPTCHA -->
-						<div class="g-recaptcha" data-sitekey="--YOUR RECAPTCHA SITE KEY--"></div>
+						<div class="g-recaptcha" data-sitekey="6LewlToUAAAAAD0kkIwEBUKexyWp-u-dkIh0KQQq"></div>
 
 						<input id="submit" name="submit" type="submit" value="Submit">
 
