@@ -55,7 +55,7 @@
 	<!--parallax first section -->
 	<section class="parallax-content">
 		<div class="parallax">
-			<div class="jumbotron bg-transparent text-center">
+			<div class="jumbotron bg-transparent text-center" id="welcome">
 				<h1>Glad you could make it!</h1>
 				<p class="lead">Thanks for taking the time to check out what I'm capable of!</p>
 			</div>
@@ -69,7 +69,9 @@
 			<div class="row">
 				<div class="col-sm-12 col-md-8 col-lg-6">
 					<h2>A Little About Me</h2>
-					<p>In life I regularly find myself in pursuit of a greater challenge. I was raised with the belief that to say you can't would be admitting that you were incapable of learning. This instilled a persistent drive to accomplish better things. You should not be afraid to fail, but be afraid of not learning. These few little pieces of advice have led me to persue some incredible interests and hobbies. From blasting through the desert on my dirtbike to learning how to code and camping, snowboarding, and travel abroad inbetween, I feel like I have gained some invaluable experience</p>
+					<p>In life I regularly find myself in pursuit of a greater challenge. I found myself lacking challenge and interest in my recent career as an electrician. I sought to take the skills I had learned like problem solving, dynamic thinking, and finding applicable solutions and apply them to something that would allow me to dream and create. Here is where coding has become my most desirable challenge yet. For the first time in a long time I started waking up with a purpose again.
+
+						I was raised with the belief that to say you can't would be admitting that you were incapable of learning. This instilled a persistent drive to accomplish better things. You should not be afraid to fail, but be afraid of not learning. These few little pieces of advice have led me to persue some incredible interests and hobbies. From blasting through the desert on my dirtbike to learning how to code and camping, snowboarding, and travel abroad inbetween, I feel like I have gained some invaluable experience</p>
 					<p>I began my career life as an electrician. I built server rooms, access control systems, hospitals, schools, offices, and homes. I was taught a lot about what hard work was. I loved to troubleshoot, design, and create. This life required some major</p>
 				</div>
 				<div class="col-sm-12 col-md-4 col-lg-6"><img class="img-fluid" src="./images/getting-ready-tiny.jpg" alt="picture of Matt David" id="about-image"></div>
@@ -88,30 +90,27 @@
 
 	<!-- Languages I know -->
 	<section class="p-5 solid mt-0" id="languages">
-		<div class="container">
+		<div class="container-fluid">
 			<div class="row">
-				<div class="col-sm-12">
+				<div class="col-sm-12 text-center">
 					<h2>I operate primarily with Linux and Windows.</h2>
-					<div class="container">
+					<div class="container-fluid">
 						<div class="row">
-							<div class="col-sm-12">
-								<img src="images/linux-logo.jpeg" class="img-fluid col-sm-3" alt="linux logo">
-								<img src="images/apache-logo.png" class="img-fluid col-sm-3" alt="apache logo">
-								<img src="images/mysql-logo.jpeg" class="img-fluid col-sm-3" alt="mysql logo">
-								<img src="images/php-logo.jpeg" class="img-fluid col-sm-3" alt="php logo">
-							</div>
+								<img src="images/linux-logo.jpeg" class="col-xs-3" alt="linux logo">
+								<img src="images/apache-logo.png" class="col-xs-3" alt="apache logo">
+								<img src="images/mysql-logo.jpeg" class="col-xs-3" alt="mysql logo">
+								<img src="images/php-logo.jpeg" class="col-xs-3" alt="php logo">
 						</div>
 					</div>
-					<div class="container">
+					<div class="container-fluid">
 						<div class="row">
-							<div class="col-sm-12">
-								<img src="images/html-logo.png" class="img-fluid col-sm-2" alt="html logo">
-								<img src="images/css-logo.jpeg" class="img-fluid col-sm-2" alt="css logo">
-								<img src="images/js-logo.png"class="img-fluid col-sm-2" alt="javascript logo">
-								<img src="images/jQuery.jpeg" class="img-fluid col-sm-2" alt="jQuery logo">
-								<img src="images/json.jpeg" class="img-fluid col-sm-2" alt="json logo">
-								<img src="images/angular-logo.png" class="img-fluid col-sm-2" alt="angular logo">
-							</div>
+								<img src="images/html-logo-small.png" class="col-xs" alt="html logo">
+								<img src="images/css-logo.jpeg" class="col-xs" alt="css logo">
+								<img src="images/js-logo.png"class="col-xs" alt="javascript logo">
+								<img src="images/bootstrap-logo.png" class="col-xs" alt="bootstrap logo">
+								<img src="images/jQuery.jpeg" class="col-xs" alt="jQuery logo">
+								<img src="images/json.jpeg" class="col-xs" alt="json logo">
+								<img src="images/angular-logo.png" class="col-xs" alt="angular logo">
 						</div>
 					</div>
 
@@ -133,9 +132,17 @@
 	<section class="p-5 solid mt-0" id="skills">
 		<div class="container">
 			<div class="row">
-				<div class="col-sm-12 col-md-8 col-lr-6">
+				<div class="col-xs-12 col-md-8 col-lr-6">
 					<h2>Skills</h2>
-					<p>Slacking, Sleeping, eating, bbbrrrraaaaappppppp</p>
+					<ul>
+						<li>Public Speaking</li>
+						<li>Practical Problem Solving</li>
+						<li>Critical Communication</li>
+						<li>Detail Oriented</li>
+						<li>Customer Service and Satisfaction</li>
+						<li>Time Management</li>
+						<li>Self Sufficinet</li>
+					</ul>
 				</div>
 			</div>
 		</div>
