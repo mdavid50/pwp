@@ -7,14 +7,14 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <!-- link to css stylesheet -->
-    <link rel="stylesheet" href="public_html/style/style.css" type="text/css"/>
+    <link rel="stylesheet" href="style/style.css" type="text/css"/>
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
 
 	<!-- jQuery, Popper.js, Bootstrap JS -->
 
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js" integrity = "sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js" crossorigin="anonymous"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.3/umd/popper.min.js" integrity="sha384-vFJXuSJphROIrBnz7yo7oB41mKfc8JzQZiCq4NCceLEaO4IHwicKwpJf9c9IpFgh" crossorigin="anonymous"></script>
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/js/bootstrap.min.js" integrity="sha384-alpBpkh1PFOepccYVYDB4do5UnbKysX5WZXm3XxPqe5iKTfUKjNkCk9SaVuEZflJ" crossorigin="anonymous"></script>
 
@@ -25,13 +25,13 @@
 	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.17.0/additional-methods.min.js"></script>
 
 	<!-- Your JavaScript Form Validator -->
-	<script src="public_html/scripts/jquery-validate.js"></script>
+	<script src="scripts/jquery-validate.js"></script>
 
 	<!-- Google reCAPTCHA -->
 	<script src='https://www.google.com/recaptcha/api.js'></script>
 
     <!-- java script link -->
-    <script src="public_html/scripts/main.js"></script>
+    <script src="scripts/main.js"></script>
 
 </head>
 
@@ -61,7 +61,7 @@
 					<a href="https://www.linkedin.com/in/matthew-david-8b7079152/" target="_blank" class="nav-link">LinkedIn</a>
 				</li>
 				<li class="nav-item">
-					<a class="nav-link" href="public_html/documentation/matthew-david-resume.pdf">Resume</a>
+					<a class="nav-link" href="./documentation/matthew-david-resume.pdf">Resume</a>
 				</li>
 				<li class="nav-item">
 					<a class="nav-link" href="#contact">Contact</a>
@@ -92,7 +92,7 @@
 						I was raised with the belief that to say you can't would be admitting that you were incapable of learning. This instilled a persistent drive to accomplish better things. You should not be afraid to fail, but be afraid of not learning. These few little pieces of advice have led me to persue some incredible interests and hobbies. From blasting through the desert on my dirtbike to learning how to code and camping, snowboarding, and travel abroad inbetween, I feel like I have gained some invaluable experience</p>
 					<p>I began my career life as an electrician. I built server rooms, access control systems, hospitals, schools, offices, and homes. I was taught a lot about what hard work was. I loved to troubleshoot, design, and create. This life required some major</p>
 				</div>
-				<div class="col-sm-12 col-md-4 col-lg-6"><img class="img-fluid" src="public_html/images/getting-ready-tiny.jpg" alt="picture of Matt David" id="about-image"></div>
+				<div class="col-sm-12 col-md-4 col-lg-6"><img class="img-fluid" src="./images/getting-ready-tiny.jpg" alt="picture of Matt David" id="about-image"></div>
 			</div>
 		</div>
 	</section>
@@ -114,21 +114,21 @@
 					<h2>I operate primarily with Linux and Windows.</h2>
 					<div class="container-fluid">
 						<div class="row">
-								<img src="public_html/images/linux-logo.jpeg" class="col-xs-3" alt="linux logo">
-								<img src="public_html/images/apache-logo.png" class="col-xs-3" alt="apache logo">
-								<img src="public_html/images/mysql-logo.jpeg" class="col-xs-3" alt="mysql logo">
-								<img src="public_html/images/php-logo.jpeg" class="col-xs-3" alt="php logo">
+								<img src="images/linux-logo.jpeg" class="col-xs-3" alt="linux logo">
+								<img src="images/apache-logo.png" class="col-xs-3" alt="apache logo">
+								<img src="images/mysql-logo.jpeg" class="col-xs-3" alt="mysql logo">
+								<img src="images/php-logo.jpeg" class="col-xs-3" alt="php logo">
 						</div>
 					</div>
 					<div class="container-fluid">
 						<div class="row">
-								<img src="public_html/images/html-logo-small.png" class="col-xs" alt="html logo">
-								<img src="public_html/images/css-logo.jpeg" class="col-xs" alt="css logo">
-								<img src="public_html/images/js-logo.png" class="col-xs" alt="javascript logo">
-								<img src="public_html/images/bootstrap-logo.png" class="col-xs" alt="bootstrap logo">
-								<img src="public_html/images/jQuery.jpeg" class="col-xs" alt="jQuery logo">
-								<img src="public_html/images/json.jpeg" class="col-xs" alt="json logo">
-								<img src="public_html/images/angular-logo.png" class="col-xs" alt="angular logo">
+								<img src="images/html-logo-small.png" class="col-xs" alt="html logo">
+								<img src="images/css-logo.jpeg" class="col-xs" alt="css logo">
+								<img src="images/js-logo.png"class="col-xs" alt="javascript logo">
+								<img src="images/bootstrap-logo.png" class="col-xs" alt="bootstrap logo">
+								<img src="images/jQuery.jpeg" class="col-xs" alt="jQuery logo">
+								<img src="images/json.jpeg" class="col-xs" alt="json logo">
+								<img src="images/angular-logo.png" class="col-xs" alt="angular logo">
 						</div>
 					</div>
 
@@ -181,7 +181,7 @@
 			<div class="row">
 				<div class="col-sm-12 col-md-8 col-lr-6">
 					<h2>Contact</h2>
-					<form id="contact-form" action="public_html/php/mailer.php" method="post" novalidate>
+					<form id="contact-form" action="php/mailer.php" method="post" novalidate>
 
 						<label>Name</label>
 						<input name="name" id="name" placeholder="Type Here">
