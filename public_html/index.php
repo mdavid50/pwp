@@ -181,21 +181,30 @@
 			<div class="row">
 				<div class="col-sm-12 col-md-8 col-lr-6">
 					<h2>Contact</h2>
-					<form>
+					<form id="contact-form" action="php/mailer.php" method="post" novalidate>
 
 						<label>Name</label>
-						<input name="name" placeholder="Type Here">
+						<input name="name" id="name" placeholder="Type Here">
 
 						<label>Email</label>
-						<input name="email" type="email" placeholder="Type Here">
+						<input name="email" type="email" id="email" placeholder="Type Here">
 
 						<label>Message</label>
 						<textarea name="message" placeholder="Type Here"></textarea>
+
+						<!-- reCAPTCHA -->
+						<div class="g-recaptcha" data-sitekey="--YOUR RECAPTCHA SITE KEY--"></div>
 
 						<input id="submit" name="submit" type="submit" value="Submit">
 
 					</form>
 
+					<!--empty area for form error/success output-->
+					<div class="row">
+						<div class="col">
+							<div id="output-area"></div>
+						</div>
+					</div>
 				</div>
 			</div>
 		</div>
