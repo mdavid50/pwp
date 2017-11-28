@@ -114,21 +114,21 @@
 					<h2>I operate primarily with Linux and Windows.</h2>
 					<div class="container-fluid">
 						<div class="row">
-								<img src="images/linux-logo.jpeg" class="col-xs-3" alt="linux logo">
-								<img src="images/apache-logo.png" class="col-xs-3" alt="apache logo">
-								<img src="images/mysql-logo.jpeg" class="col-xs-3" alt="mysql logo">
+								<img src="images/linux-logo-small.jpeg" class="col-xs-3" alt="linux logo">
+								<img src="images/apache-logo-small.png" class="col-xs-3" alt="apache logo">
+								<img src="images/mysql-logo-.jpeg" class="col-xs-3" alt="mysql logo">
 								<img src="images/php-logo.jpeg" class="col-xs-3" alt="php logo">
 						</div>
 					</div>
 					<div class="container-fluid">
 						<div class="row">
 								<img src="images/html-logo-small.png" class="col-xs" alt="html logo">
-								<img src="images/css-logo.jpeg" class="col-xs" alt="css logo">
-								<img src="images/js-logo.png"class="col-xs" alt="javascript logo">
-								<img src="images/bootstrap-logo.png" class="col-xs" alt="bootstrap logo">
-								<img src="images/jQuery.jpeg" class="col-xs" alt="jQuery logo">
-								<img src="images/json.jpeg" class="col-xs" alt="json logo">
-								<img src="images/angular-logo.png" class="col-xs" alt="angular logo">
+								<img src="images/css-logo-small.jpeg" class="col-xs" alt="css logo">
+								<img src="images/js-logo-small.png"class="col-xs" alt="javascript logo">
+								<img src="images/bootstrap-logo-small.png" class="col-xs" alt="bootstrap logo">
+								<img src="images/jQuery-logo-small.jpeg" class="col-xs" alt="jQuery logo">
+								<img src="images/json-logo-small.jpeg" class="col-xs" alt="json logo">
+								<img src="images/angular-logo-small.png" class="col-xs" alt="angular logo">
 						</div>
 					</div>
 
