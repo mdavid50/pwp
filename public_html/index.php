@@ -98,7 +98,7 @@
 	</section>
 
 	<!-- parallax second section -->
-	<div class="parallax-content2">
+	<div class="parallax-content parallax-content2">
 		<div class="parallax">
 			<div class="jumbotron bg-transparent text-left">
 				<h1>Languages I have learned</h1>
@@ -138,7 +138,7 @@
 	</section>
 
 	<!-- parallax third section -->
-	<div class="parallax-content3">
+	<div class="parallax-content parallax-content3">
 		<div class="parallax">
 			<div class="jumbotron bg-transparent text-right">
 				<h1>My Other Attributes</h1>
@@ -167,7 +167,7 @@
 	</section>
 
 	<!-- parallax fourth section -->
-	<div class="parallax-content4">
+	<div class="parallax-content parallax-content4">
 		<div class="parallax">
 			<div class="jumbotron bg-transparent text-center">
 				<h1>What can I do for you?</h1>
