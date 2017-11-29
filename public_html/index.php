@@ -88,7 +88,7 @@
 					<h2>A Little About Me</h2>
 					<p>In life I regularly find myself in pursuit of a greater challenge. I found myself lacking challenge and interest in my recent career as an electrician. I sought to take the skills I had learned like problem solving, dynamic thinking, and finding applicable solutions and apply them to something that would allow me to dream and create. Here is where coding has become my most desirable challenge yet. For the first time in a long time, I started waking up with a purpose again.
 					</p>
-					<p>When I take a brake from coding and learning, I can usually be found outdoors. Dirt biking, skiing, snowboarding, camping, hiking, and spending time with my little family is what relieves me from the strains of life.</p>
+					<p>When I take a brake from coding and learning, I can usually be found outdoors. Dirt biking, skiing, snowboarding, camping, hiking, and spending time with my little family are the pleasantries that relieve me from the strains of life.</p>
 				</div>
 				<div class="col-sm-12 col-md-4 col-lg-6"><img class="img-fluid" src="./images/getting-ready-tiny.jpg" alt="picture of Matt David" id="about-image"></div>
 			</div>
