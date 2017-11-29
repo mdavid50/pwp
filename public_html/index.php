@@ -114,10 +114,10 @@
 					<h2>I operate primarily with Linux and Windows.</h2>
 					<div class="container-fluid">
 						<div class="row">
-								<img src="images/linux-logo-small.jpeg" class="col-xs-3" alt="linux logo">
-								<img src="images/apache-logo-small.png" class="col-xs-3" alt="apache logo">
-								<img src="images/mysql-logo-.jpeg" class="col-xs-3" alt="mysql logo">
-								<img src="images/php-logo.jpeg" class="col-xs-3" alt="php logo">
+								<img src="images/linux-logo-small.jpeg" class="col-xs" alt="linux logo">
+								<img src="images/apache-logo-small.png" class="col-xs" alt="apache logo">
+								<img src="images/mysql-logo-small.jpeg" class="col-xs" alt="mysql logo">
+								<img src="images/php-logo-small.jpeg" class="col-xs" alt="php logo">
 						</div>
 					</div>
 					<div class="container-fluid">
