@@ -3,11 +3,19 @@
 }
 
 .jumbotron {
-	color: khaki;
+	color: white;
+}
+
+.lead {
+	font-weight: 600;
 }
 
 #top-of-page {
 	position: fixed;
+}
+
+p {
+	font-weight: 500;
 }
 
 section {

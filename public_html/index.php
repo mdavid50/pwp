@@ -61,7 +61,7 @@
 					<a href="https://www.linkedin.com/in/matthew-david-8b7079152/" target="_blank" class="nav-link">LinkedIn</a>
 				</li>
 				<li class="nav-item">
-					<a class="nav-link" href="./documentation/matthew-david-resume.pdf">Resume</a>
+					<a class="nav-link" href="./documentation/matt-david-resume.pdf">Resume</a>
 				</li>
 				<li class="nav-item">
 					<a class="nav-link" href="#contact">Contact</a>
@@ -71,26 +71,24 @@
 	</nav>
 
 	<!--parallax first section -->
-	<section class="parallax-content">
+	<section class="parallax-content" id="about">
 		<div class="parallax">
-			<div class="jumbotron bg-transparent text-center" id="welcome">
+			<div class="jumbotron-fluid bg-transparent text-center" id="welcome">
 				<h1>Glad you could make it!</h1>
-				<p class="lead">Thanks for taking the time to check out what I'm capable of!</p>
 			</div>
 		</div>
 	</section>
 
 
 	<!-- about Matt David -->
-	<section class="p-5 solid mt-0" id="about">
+	<section class="p-5 solid mt-0">
 		<div class="container">
 			<div class="row">
 				<div class="col-sm-12 col-md-8 col-lg-6">
 					<h2>A Little About Me</h2>
-					<p>In life I regularly find myself in pursuit of a greater challenge. I found myself lacking challenge and interest in my recent career as an electrician. I sought to take the skills I had learned like problem solving, dynamic thinking, and finding applicable solutions and apply them to something that would allow me to dream and create. Here is where coding has become my most desirable challenge yet. For the first time in a long time I started waking up with a purpose again.
-
-						I was raised with the belief that to say you can't would be admitting that you were incapable of learning. This instilled a persistent drive to accomplish better things. You should not be afraid to fail, but be afraid of not learning. These few little pieces of advice have led me to persue some incredible interests and hobbies. From blasting through the desert on my dirtbike to learning how to code and camping, snowboarding, and travel abroad inbetween, I feel like I have gained some invaluable experience</p>
-					<p>I began my career life as an electrician. I built server rooms, access control systems, hospitals, schools, offices, and homes. I was taught a lot about what hard work was. I loved to troubleshoot, design, and create. This life required some major</p>
+					<p>In life I regularly find myself in pursuit of a greater challenge. I found myself lacking challenge and interest in my recent career as an electrician. I sought to take the skills I had learned like problem solving, dynamic thinking, and finding applicable solutions and apply them to something that would allow me to dream and create. Here is where coding has become my most desirable challenge yet. For the first time in a long time, I started waking up with a purpose again.
+					</p>
+					<p>When I take a brake from coding and learning, I can usually be found outdoors. Dirt biking, skiing, snowboarding, camping, hiking, and spending time with my little family is what relieves me from strains of life.</p>
 				</div>
 				<div class="col-sm-12 col-md-4 col-lg-6"><img class="img-fluid" src="./images/getting-ready-tiny.jpg" alt="picture of Matt David" id="about-image"></div>
 			</div>
@@ -98,7 +96,7 @@
 	</section>
 
 	<!-- parallax second section -->
-	<div class="parallax-content parallax-content2">
+	<div class="parallax-content parallax-content2" id="languages">
 		<div class="parallax">
 			<div class="jumbotron bg-transparent text-left">
 				<h1>Languages I have learned</h1>
@@ -107,11 +105,11 @@
 	</div>
 
 	<!-- Languages I know -->
-	<section class="p-5 solid mt-0" id="languages">
+	<section class="p-5 solid mt-0">
 		<div class="container-fluid">
 			<div class="row">
 				<div class="col-sm-12 text-center">
-					<h2>I operate primarily with Linux and Windows.</h2>
+					<h2>Operating primarily with Linux and Windows, I have learned to code in...</h2>
 					<div class="container-fluid">
 						<div class="row">
 							<div class="col-lg-12 m-3">
@@ -144,16 +142,16 @@
 	</section>
 
 	<!-- parallax third section -->
-	<div class="parallax-content parallax-content3">
+	<div class="parallax-content parallax-content3" id="skills">
 		<div class="parallax">
 			<div class="jumbotron bg-transparent text-right">
 				<h1>My Other Attributes</h1>
-				<p>Soft skills gathered over time</p>
+				<h3>Soft skills gathered over time</h3>
 			</div>
 		</div>
 	</div>
 
-	<section class="p-5 solid mt-0" id="skills">
+	<section class="p-5 solid mt-0">
 		<div class="container">
 			<div class="row">
 				<div class="col-xs-12 col-md-8 col-lr-6">
@@ -173,16 +171,16 @@
 	</section>
 
 	<!-- parallax fourth section -->
-	<div class="parallax-content parallax-content4">
+	<div class="parallax-content parallax-content4" id="contact">
 		<div class="parallax">
 			<div class="jumbotron bg-transparent text-center">
 				<h1>What can I do for you?</h1>
-				<p>I'd love to see what we can accomplish together.</p>
+				<h3>I'd love to see what we can accomplish together.</h3>
 			</div>
 		</div>
 	</div>
 
-	<section class="p-5 solid mt-0" id="contact">
+	<section class="p-5 solid mt-0">
 		<div class="container">
 			<div class="row">
 				<div class="col-sm-12 col-md-8 col-lr-6">
