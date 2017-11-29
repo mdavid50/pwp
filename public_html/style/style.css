@@ -35,6 +35,10 @@ textarea {
 	float: right;
 }
 
+#howdy {
+	margin: 1em;
+}
+
 /*Parallax background effects*/
 .parallax-content {
 	position: relative;
