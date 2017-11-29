@@ -63,7 +63,6 @@ textarea {
 	left: 0;
 	right: 0;
 	bottom: 0;
-	height: 100%;
 	z-index: -1;
 	background-size: 100% 100%;
 	background-position: center top;
@@ -111,6 +110,11 @@ textarea {
 
 		.parallax-content4 .parallax:before{
 			background-image: url("../images/ghost-presenter.jpg");
+		}
+
+		#howdy{
+			height: 20vh;
+			width: 20vh;
 		}
 	}
 

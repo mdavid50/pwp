@@ -114,21 +114,27 @@
 					<h2>I operate primarily with Linux and Windows.</h2>
 					<div class="container-fluid">
 						<div class="row">
-								<img src="images/linux-logo-small.jpeg" class="col-xs" alt="linux logo">
-								<img src="images/apache-logo-small.png" class="col-xs" alt="apache logo">
-								<img src="images/mysql-logo-small.jpeg" class="col-xs" alt="mysql logo">
-								<img src="images/php-logo-small.jpeg" class="col-xs" alt="php logo">
+							<div class="col-lg-12 m-3">
+
+										<img src="images/linux-logo-small.jpeg" class="col-md-2 col-lg-1" alt="linux logo" id="howdy">
+										<img src="images/apache-logo-small.png" class="col-md-2 col-lg-1" alt="apache logo" id="howdy">
+										<img src="images/mysql-logo-small.jpeg" class="col-md-2 col-lg-1" alt="mysql logo" id="howdy">
+										<img src="images/php-logo-small.jpeg" class="col-md-2 col-lg-1" alt="php logo" id="howdy">
+
+							</div>
 						</div>
 					</div>
 					<div class="container-fluid">
 						<div class="row">
-								<img src="images/html-logo-small.png" class="col-xs" alt="html logo">
-								<img src="images/css-logo-small.jpeg" class="col-xs" alt="css logo">
-								<img src="images/js-logo-small.png"class="col-xs" alt="javascript logo">
-								<img src="images/bootstrap-logo-small.png" class="col-xs" alt="bootstrap logo">
-								<img src="images/jQuery-logo-small.jpeg" class="col-xs" alt="jQuery logo">
-								<img src="images/json-logo-small.jpeg" class="col-xs" alt="json logo">
-								<img src="images/angular-logo-small.png" class="col-xs" alt="angular logo">
+							<div class="col-lg-12 m-3">
+									<img src="images/html-logo-small.png" class="col-md-2 col-lg-1" alt="html logo" id="howdy">
+									<img src="images/css-logo-small.jpeg" class="col-md-2 col-lg-1" alt="css logo" id="howdy">
+									<img src="images/js-logo-small.png" class="col-md-2 col-lg-1" alt="javascript logo" id="howdy">
+									<img src="images/bootstrap-logo-small.png" class="col-md-2 col-lg-1" alt="bootstrap logo" id="howdy">
+									<img src="images/jQuery-logo-small.jpeg" class="col-md-2 col-lg-1" alt="jQuery logo" id="howdy">
+									<img src="images/json-logo-small.jpeg" class="col-md-2 col-lg-1" alt="json logo" id="howdy">
+									<img src="images/angular-logo-small.png" class="col-md-2 col-lg-1" alt="angular logo" id="howdy">
+							</div>
 						</div>
 					</div>
 
