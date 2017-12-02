@@ -49,7 +49,7 @@
 		<div class="collapse navbar-collapse" id="navbarTogglerDemo01">
 			<ul class="navbar-nav ml-auto">
 				<li class="nav-item">
-					<a class="nav-link" href="#about">About</a>
+					<a class="nav-link" href="#about" >About</a>
 				</li>
 				<li class="nav-item">
 					<a class="nav-link" href="#languages">Languages</a>
@@ -58,23 +58,23 @@
 					<a class="nav-link" href="#skills">Skills</a>
 				</li>
 				<li class="nav-item">
-					<a href="https://github.com/mdavid50" target="_blank" class="nav-link">Github</a>
-				</li>
-				<li class="nav-item">
-					<a href="https://www.linkedin.com/in/matthew-david-8b7079152/" target="_blank" class="nav-link">LinkedIn</a>
-				</li>
-				<li class="nav-item">
 					<a class="nav-link" href="./documentation/matt-david-resume.pdf">Resume</a>
 				</li>
 				<li class="nav-item">
-					<a class="nav-link" href="#contact">Contact</a>
+					<a href="https://github.com/mdavid50" target="_blank" class="nav-link"><i class="fa fa-github fa-2x" aria-hidden="true"></i></a>
+				</li>
+				<li class="nav-item">
+					<a href="https://www.linkedin.com/in/matthew-david-8b7079152/" target="_blank" class="nav-link"><i class="fa fa-linkedin-square fa-2x" aria-hidden="true"></i></a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" href="#contact"><i class="fa fa-envelope-o fa-2x" aria-hidden="true"></i></a>
 				</li>
 			</ul>
 		</div>
 	</nav>
 
 	<!--parallax first section -->
-	<section class="parallax-content" id="about">
+	<section class="parallax-content"">
 		<div class="parallax">
 			<div class="jumbotron bg-transparent text-center" id="welcome">
 				<h1>Glad you could make it!</h1>
@@ -84,7 +84,7 @@
 
 
 	<!-- about Matt David -->
-	<section class="p-5 solid mt-0">
+	<section class="p-5 solid mt-0" id="about">
 		<div class="container">
 			<div class="row">
 				<div class="col-sm-12 col-md-8 col-lg-6">
@@ -99,7 +99,7 @@
 	</section>
 
 	<!-- parallax second section -->
-	<div class="parallax-content parallax-content2" id="languages">
+	<div class="parallax-content parallax-content2">
 		<div class="parallax">
 			<div class="jumbotron bg-transparent text-left">
 				<h1>Languages I have learned</h1>
@@ -108,7 +108,7 @@
 	</div>
 
 	<!-- Languages I know -->
-	<section class="p-5 solid mt-0">
+	<section class="p-5 solid mt-0" id="languages">
 		<div class="container-fluid">
 			<div class="row">
 				<div class="col-xs-12 text-center">
@@ -117,10 +117,10 @@
 						<div class="row">
 							<div class="col-lg-12 m-3">
 
-										<img src="images/linux-logo-small.jpeg" class="col-md-2 col-lg-1" alt="linux logo" id="howdy">
-										<img src="images/apache-logo-small.png" class="col-md-2 col-lg-1" alt="apache logo" id="howdy">
-										<img src="images/mysql-logo-small.jpeg" class="col-md-2 col-lg-1" alt="mysql logo" id="howdy">
-										<img src="images/php-logo-small.jpeg" class="col-md-2 col-lg-1" alt="php logo" id="howdy">
+										<img src="images/linux_inside.png" class="col-md-2 col-lg-2" alt="linux logo" id="howdy">
+										<img src="images/apache.png" class="col-md-2 col-lg-2" alt="apache logo" id="howdy">
+										<img src="images/mysql.png" class="col-md-2 col-lg-2" alt="mysql logo" id="howdy">
+										<img src="images/php.png" class="col-md-2 col-lg-2" alt="php logo" id="howdy">
 
 							</div>
 						</div>
@@ -128,13 +128,13 @@
 					<div class="container-fluid">
 						<div class="row">
 							<div class="col-lg-12 m-3">
-									<img src="images/html-logo-small.png" class="col-md-2 col-lg-1" alt="html logo" id="howdy">
-									<img src="images/css-logo-small.jpeg" class="col-md-2 col-lg-1" alt="css logo" id="howdy">
-									<img src="images/js-logo-small.png" class="col-md-2 col-lg-1" alt="javascript logo" id="howdy">
-									<img src="images/bootstrap-logo-small.png" class="col-md-2 col-lg-1" alt="bootstrap logo" id="howdy">
-									<img src="images/jQuery-logo-small.jpeg" class="col-md-2 col-lg-1" alt="jQuery logo" id="howdy">
-									<img src="images/json-logo-small.jpeg" class="col-md-2 col-lg-1" alt="json logo" id="howdy">
-									<img src="images/angular-logo.png" class="col-md-2 col-lg-1" alt="angular logo" id="howdy">
+									<img src="images/html-logo-small.png" class="col-md-2" alt="html logo" id="howdy">
+									<img src="images/css5.png" class="col-md-2" alt="css logo" id="howdy">
+									<img src="images/javascript.png" class="col-md-2" alt="javascript logo" id="howdy">
+									<img src="images/bootstrap2.png" class="col-md-2" alt="bootstrap logo" id="howdy">
+									<img src="images/jquery.png" class="col-md-2" alt="jQuery logo" id="howdy">
+									<img src="images/json.png" class="col-md-2" alt="json logo" id="howdy">
+									<img src="images/angular-logo.png" class="col-md-2" alt="angular logo" id="howdy">
 							</div>
 						</div>
 					</div>
@@ -145,7 +145,7 @@
 	</section>
 
 	<!-- parallax third section -->
-	<div class="parallax-content parallax-content3" id="skills">
+	<div class="parallax-content parallax-content3">
 		<div class="parallax">
 			<div class="jumbotron bg-transparent text-right">
 				<h1>My Other Attributes</h1>
@@ -154,7 +154,7 @@
 		</div>
 	</div>
 
-	<section class="p-5 solid mt-0">
+	<section class="p-5 solid mt-0" id="skills">
 		<div class="container">
 			<div class="row">
 				<div class="col-xs-12 col-md-8 col-lr-6">
@@ -174,7 +174,7 @@
 	</section>
 
 	<!-- parallax fourth section -->
-	<div class="parallax-content parallax-content4" id="contact">
+	<div class="parallax-content parallax-content4">
 		<div class="parallax">
 			<div class="jumbotron bg-transparent text-center">
 				<h1>What can I do for you?</h1>
@@ -183,7 +183,8 @@
 		</div>
 	</div>
 
-	<section class="p-5 solid mt-0">
+	<!-- contact form section -->
+	<section class="p-5 solid mt-0" id="contact">
 		<div class="container">
 			<div class="row">
 				<div class="col-sm-12 col-md-8 col-lr-6">
