@@ -4,6 +4,7 @@
 
 .jumbotron {
 	color: white;
+	text-shadow: #000 2px 2px;
 }
 
 .lead {
@@ -82,46 +83,50 @@ textarea {
 	overflow: hidden;
 }
 
-
-
+#rc-imageselect, .g-recaptcha {
+	transform:scale(0.77);
+	-webkit-transform:scale(0.77);
+	transform-origin:0 0;
+	-webkit-transform-origin:0
+}
 
 
 /* xs to lg*/
 @media(min-width: 769px) {
 	.parallax-content {
-		background-image: url("../images/my-life.jpg");
+		background-image: url("../images/my-life-perfect-compressed.jpg");
 
 	}
 
 	.parallax-content2 {
-		background-image: url("../images/ryan.jpg");
+		background-image: url("../images/ryan-compressed.jpg");
 	}
 
 	.parallax-content3 {
-		background-image: url("../images/gabriel.jpg");
+		background-image: url("../images/gabriel-compressed.jpg");
 	}
 
 	.parallax-content4 {
-		background-image: url("../images/ghost-presenter.jpg");
+		background-image: url("../images/ghost-presenter-compressed.jpg");
 	}
 }
 
 	/* xs to 0 */
 	@media(max-width: 768px){
 		.parallax-content .parallax:before{
-			background-image: url("../images/my-life.jpg");
+			background-image: url("../images/my-life-perfect-compressed.jpg");
 		}
 
 		.parallax-content2 .parallax:before{
-			background-image: url("../images/ryan.jpg");
+			background-image: url("../images/ryan-compressed.jpg");
 		}
 
 		.parallax-content3 .parallax:before{
-			background-image: url("../images/gabriel.jpg");
+			background-image: url("../images/gabriel-compressed.jpg");
 		}
 
 		.parallax-content4 .parallax:before{
-			background-image: url("../images/ghost-presenter.jpg");
+			background-image: url("../images/ghost-presenter-compressed.jpg");
 		}
 
 		#howdy{
@@ -130,3 +135,12 @@ textarea {
 		}
 	}
 
+@media only screen and (max-width: 992px) {
+	img[class*="col-"] {
+		padding: 0 !important;
+	}
+}
+
+h2 {
+
+}

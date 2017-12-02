@@ -12,6 +12,9 @@
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
 
+	<!-- font awesome -->
+	<script src="https://use.fontawesome.com/02efcb04d1.js"></script>
+
 	<!-- jQuery, Popper.js, Bootstrap JS -->
 
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js" crossorigin="anonymous"></script>
@@ -73,7 +76,7 @@
 	<!--parallax first section -->
 	<section class="parallax-content" id="about">
 		<div class="parallax">
-			<div class="jumbotron-fluid bg-transparent text-center" id="welcome">
+			<div class="jumbotron bg-transparent text-center" id="welcome">
 				<h1>Glad you could make it!</h1>
 			</div>
 		</div>
@@ -108,7 +111,7 @@
 	<section class="p-5 solid mt-0">
 		<div class="container-fluid">
 			<div class="row">
-				<div class="col-sm-12 text-center">
+				<div class="col-xs-12 text-center">
 					<h2>Operating primarily with Linux and Windows, I have learned to code in...</h2>
 					<div class="container-fluid">
 						<div class="row">
@@ -131,7 +134,7 @@
 									<img src="images/bootstrap-logo-small.png" class="col-md-2 col-lg-1" alt="bootstrap logo" id="howdy">
 									<img src="images/jQuery-logo-small.jpeg" class="col-md-2 col-lg-1" alt="jQuery logo" id="howdy">
 									<img src="images/json-logo-small.jpeg" class="col-md-2 col-lg-1" alt="json logo" id="howdy">
-									<img src="images/angular-logo-small.png" class="col-md-2 col-lg-1" alt="angular logo" id="howdy">
+									<img src="images/angular-logo.png" class="col-md-2 col-lg-1" alt="angular logo" id="howdy">
 							</div>
 						</div>
 					</div>
