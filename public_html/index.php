@@ -9,6 +9,9 @@
     <!-- link to css stylesheet -->
     <link rel="stylesheet" href="style/style.css" type="text/css"/>
 
+	<!-- link to jQuery stylesheet -->
+
+
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous">
 
@@ -117,7 +120,6 @@
 						<div class="row">
 							<div class="col-lg-12 m-3">
 
-										<img src="images/linux_inside.png" class="col-md-2 col-lg-2" alt="linux logo" id="howdy">
 										<img src="images/apache.png" class="col-md-2 col-lg-2" alt="apache logo" id="howdy">
 										<img src="images/mysql.png" class="col-md-2 col-lg-2" alt="mysql logo" id="howdy">
 										<img src="images/php.png" class="col-md-2 col-lg-2" alt="php logo" id="howdy">
@@ -133,7 +135,6 @@
 									<img src="images/javascript.png" class="col-md-2" alt="javascript logo" id="howdy">
 									<img src="images/bootstrap2.png" class="col-md-2" alt="bootstrap logo" id="howdy">
 									<img src="images/jquery.png" class="col-md-2" alt="jQuery logo" id="howdy">
-									<img src="images/json.png" class="col-md-2" alt="json logo" id="howdy">
 									<img src="images/angular-logo.png" class="col-md-2" alt="angular logo" id="howdy">
 							</div>
 						</div>
