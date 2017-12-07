@@ -67,7 +67,7 @@
 					<a href="https://github.com/mdavid50" target="_blank" class="nav-link"><i class="fa fa-github fa-2x" aria-hidden="true"></i></a>
 				</li>
 				<li class="nav-item">
-					<a href="https://www.linkedin.com/in/matthew-david-8b7079152/" target="_blank" class="nav-link"><i class="fa fa-linkedin-square fa-2x" aria-hidden="true"></i></a>
+					<a href="https://www.linkedin.com/in/mattjdavid/" target="_blank" class="nav-link"><i class="fa fa-linkedin-square fa-2x" aria-hidden="true"></i></a>
 				</li>
 				<li class="nav-item">
 					<a class="nav-link" href="#contact"><i class="fa fa-envelope-o fa-2x" aria-hidden="true"></i></a>
