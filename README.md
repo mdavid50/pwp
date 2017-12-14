@@ -21,3 +21,17 @@ Your Milestone 2a passes at [Tier II](https://bootcamp-coders.cnm.edu/projects/p
 
 ## Milestone 2&beta; Feedback
 While your pwp is lacking content, your layout is looking great, and you're on the right track. Your grade for 2&beta; is [Tier III](https://bootcamp-coders.cnm.edu/projects/personal/rubric/). Great job!
+
+## Milestone3
+Overall your PWP looks great. You had a consistent design and color scheme. Your Parallax is clean, works clean and was disabled on mobile. That said, there were a few areas I feel like could have been improved. First I found the spacing for the content was too large. I had to scroll to get through your site especially at very large breakpoints. Second, I feel like your form might have been a little too small and condensed for the site. Finally, you had quite a few errors on W3C Validator for using the same Id, remember that an Id can only be used once across a project. https://validator.w3.org/nu/?doc=https:%2F%2Fmattjdavid.com%2F
+
+**Grade Tier III 
+
+### Final Grade
+
+Milestone 1 - 20%: Tier III 40(0.2) = 8 
+Milestone 2a - 20%: Tier II 20(0.2) = 4
+Milestone 2b - 10%: Tier III 30(0.1) = 3
+Milestone 3 - 50%: Tier III 30(0.5) = 15 
+Final 30/40 or a solid B
+
