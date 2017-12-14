@@ -134,7 +134,6 @@
 									<img src="images/css5.png" class="col-md-2" alt="css logo" id="howdy">
 									<img src="images/javascript.png" class="col-md-2" alt="javascript logo" id="howdy">
 									<img src="images/bootstrap2.png" class="col-md-2" alt="bootstrap logo" id="howdy">
-									<img src="images/jquery.png" class="col-md-2" alt="jQuery logo" id="howdy">
 									<img src="images/angular-logo.png" class="col-md-2" alt="angular logo" id="howdy">
 							</div>
 						</div>
