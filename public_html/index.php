@@ -120,9 +120,9 @@
 						<div class="row">
 							<div class="col-lg-12 m-3">
 
-										<img src="images/apache.png" class="col-md-2 col-lg-2" alt="apache logo" id="howdy">
-										<img src="images/mysql.png" class="col-md-2 col-lg-2" alt="mysql logo" id="howdy">
-										<img src="images/php.png" class="col-md-2 col-lg-2" alt="php logo" id="howdy">
+										<img src="images/apache.png" class="col-md-2 col-lg-2" alt="apache logo">
+										<img src="images/mysql.png" class="col-md-2 col-lg-2" alt="mysql logo">
+										<img src="images/php.png" class="col-md-2 col-lg-2" alt="php logo">
 
 							</div>
 						</div>
@@ -130,11 +130,11 @@
 					<div class="container-fluid">
 						<div class="row">
 							<div class="col-lg-12 m-3">
-									<img src="images/html-logo-small.png" class="col-md-2" alt="html logo" id="howdy">
-									<img src="images/css5.png" class="col-md-2" alt="css logo" id="howdy">
-									<img src="images/javascript.png" class="col-md-2" alt="javascript logo" id="howdy">
-									<img src="images/bootstrap2.png" class="col-md-2" alt="bootstrap logo" id="howdy">
-									<img src="images/angular-logo.png" class="col-md-2" alt="angular logo" id="howdy">
+									<img src="images/html-logo-small.png" class="col-md-2" alt="html logo">
+									<img src="images/css5.png" class="col-md-2" alt="css logo">
+									<img src="images/javascript.png" class="col-md-2" alt="javascript logo">
+									<img src="images/bootstrap2.png" class="col-md-2" alt="bootstrap logo">
+									<img src="images/angular-logo.png" class="col-md-2" alt="angular logo">
 							</div>
 						</div>
 					</div>
