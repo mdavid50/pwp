@@ -83,6 +83,7 @@
 				<h1>Glad you could make it!</h1>
 			</div>
 		</div>
+	</section>
 
 
 	<!-- about Matt David -->
