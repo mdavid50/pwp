@@ -187,7 +187,7 @@
 	<section class="p-5 solid mt-0" id="contact">
 		<div class="container">
 			<div class="row">
-				<div class="col-sm-12 col-md-8 col-lr-6">
+				<div class="col-sm-12 col-md-8 col-lr-8">
 					<h2>Contact</h2>
 					<form id="contact-form" action="php/mailer.php" method="post" novalidate>
 
