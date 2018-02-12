@@ -61,7 +61,7 @@
 					<a class="nav-link" href="#skills">Skills</a>
 				</li>
 				<li class="nav-item">
-					<a class="nav-link" href="./documentation/m-david-resume.pdf">Resume</a>
+					<a class="nav-link" href="./documentation/matthew-david-resume.pdf">Resume</a>
 				</li>
 				<li class="nav-item">
 					<a href="https://github.com/mdavid50" target="_blank" class="nav-link"><i class="fa fa-github fa-2x" aria-hidden="true"></i></a>
